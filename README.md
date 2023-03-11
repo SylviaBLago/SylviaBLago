@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **SylviaBLago/SylviaBLago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +12,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### Olá 👋, 
+
+Meu nome é Sylvia Lago,
+
+Sou analista de dados e bacharel em enfermagem
+
+No momento estou trabalhando com:
+
+Estou estudando:
 -->
+
